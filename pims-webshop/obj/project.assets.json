@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\pimeg\\Documents\\pims-webshop\\pims-webshop\\pims-webshop.csproj",
+      "projectUniqueName": "C:\\Users\\pimeg\\Documents\\PROJECTEN\\pims-webshop\\pims-webshop\\pims-webshop.csproj",
       "projectName": "pims-webshop",
-      "projectPath": "C:\\Users\\pimeg\\Documents\\pims-webshop\\pims-webshop\\pims-webshop.csproj",
+      "projectPath": "C:\\Users\\pimeg\\Documents\\PROJECTEN\\pims-webshop\\pims-webshop\\pims-webshop.csproj",
       "packagesPath": "C:\\Users\\pimeg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pimeg\\Documents\\pims-webshop\\pims-webshop\\obj\\",
+      "outputPath": "C:\\Users\\pimeg\\Documents\\PROJECTEN\\pims-webshop\\pims-webshop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
